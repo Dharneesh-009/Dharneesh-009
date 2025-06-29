@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Calculater in Python '/n'
+Calculater in Python 
+
+
 Calculater in java
 Atm in c++
 Atm in java 
