@@ -11,7 +11,6 @@
 - 🔭 I’m currently building: **Virtual Task Management System** with `Spring Boot`, `React`, and `JWT Authentication`
 - 🌱 I’m diving deep into: `Spring Security`, `REST APIs`, `AI Integrations`, and `DSA in Java`
 - 🧠 Passionate about: Merging AI with software products to create intelligent web apps
-- 📚 Final Year Student in **Automobile Engineering**, with a strong focus on **Software Development**
 - 💬 Ask me about: `Java`, `Spring Boot`, `React.js`, `JWT`, `AI Integration`, `LLMs`, `Backend Architecture`
 
 ---
