@@ -22,6 +22,7 @@
 🛠️ Tools:     IntelliJ | VS Code | Postman | GitHub | Figma | Netlify
 ⚙️ DevOps:     GitHub Actions (learning)
 🛠️ Featured Projects
+
 Project	Tech Stack	Description
 Login/Auth System	React + Spring Boot + JWT	Secure role-based login & registration system
 IPL Outcome Predictor	Python + Scikit-learn + Streamlit	Predicts cricket match outcomes using ML
