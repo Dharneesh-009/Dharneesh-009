@@ -1,49 +1,46 @@
 <h1 align="center">Hi there 👋, I'm Dharneesh</h1>
-
-<p align="center">
-  🚀 Aspiring Java Backend Developer | 🧠 AI-Integrated App Builder | 🌐 Full-Stack Explorer
-</p>
+<h3 align="center">🚀 Aspiring Java Backend Developer | 🧠 AI-Integrated App Builder | 🌐 Full-Stack Explorer</h3>
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
-- 🔭 I’m currently building: **Virtual Task Management System** with `Spring Boot`, `React`, and `JWT Authentication`
-- 🌱 I’m diving deep into: `Spring Security`, `REST APIs`, `AI Integrations`, and `DSA in Java`
-- 🧠 Passionate about: Merging AI with software products to create intelligent web apps
-- 💬 Ask me about: `Java`, `Spring Boot`, `React.js`, `JWT`, `AI Integration`, `LLMs`, `Backend Architecture`
+- 🔨 Building: **Virtual Task Management System** using `Spring Boot`, `React`, and `JWT`
+- 📚 Learning: `Spring Security`, `REST APIs`, `AI Integration`, and `Java DSA`
+- 💭 Passionate about: Creating **AI-powered full-stack web apps**
+- 💬 Ask me about: `Java`, `Spring Boot`, `JWT Auth`, `React.js`, `LLMs`, `Backend Design`
 
 ---
 
-### ⚒️ Tech Stack
+## ⚙️ Tech Stack
 
 ```bash
-💻 Backend:   Java | Spring Boot | Spring Security | REST API | JWT | Hibernate | Maven  
-🌐 Frontend:  React.js | Vite | Tailwind CSS | Bootstrap | HTML/CSS | Axios  
-🧠 AI Tools:  OpenAI API | Hugging Face | Groq  
-🛢️ Database: MySQL | PostgreSQL | H2 | JPA  
-🧰 Tools:     VS Code | IntelliJ | Postman | Git & GitHub | Figma | Netlify  
-📦 DevOps:    GitHub Actions (learning)  
-🛠️ My Mini Projects (Practice-Based)
-Project Name	Tech Stack	Description
-Login/Register Auth System	React + Spring Boot + JWT	Secure login system with role-based UI
-IPL Outcome Predictor	Python + Scikit-learn + Streamlit	AI model to predict match outcomes
-Contact Page (Styled)	React + Tailwind	Responsive, social-linked contact UI
-DSA Practice in Java	Java	Mastering arrays, strings, trees, etc.
+💻 Backend:    Java | Spring Boot | Spring Security | JWT | Hibernate | Maven
+🌐 Frontend:   React.js | Vite | Tailwind CSS | Bootstrap | HTML/CSS | Axios
+🧠 AI Tools:   OpenAI API | Hugging Face | Groq
+🛢️ Database:  MySQL | PostgreSQL | H2 | JPA
+🛠️ Tools:     IntelliJ | VS Code | Postman | GitHub | Figma | Netlify
+⚙️ DevOps:     GitHub Actions (learning)
+🛠️ Featured Projects
+Project	Tech Stack	Description
+Login/Auth System	React + Spring Boot + JWT	Secure role-based login & registration system
+IPL Outcome Predictor	Python + Scikit-learn + Streamlit	Predicts cricket match outcomes using ML
+DSA Practice	Java	Arrays, Strings, Trees & more via real problems
+Styled Contact Page	React + Tailwind CSS	Responsive UI with social media & contact links
 
-🚀 Goals for 2025
-✅ Master Java DSA & Spring Boot
+🎯 2025 Goals
+✅ Master Java DSA and Spring Boot
 
-✅ Build real-world full-stack projects with AI features
+✅ Build AI-integrated full-stack projects
 
 🔄 Contribute to open-source Java backend projects
 
-🚀 Land a Java Developer role with AI integration opportunities
+🚀 Get placed as a Java Developer with AI integration exposure
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dharneesh-009&show_icons=true&theme=radical" alt="Dharneesh's GitHub Stats" /> <br /> <img src="https://streak-stats.demolab.com?user=Dharneesh-009&theme=radical" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dharneesh-009&show_icons=true&theme=radical" alt="GitHub Stats" /> <br /> <img src="https://streak-stats.demolab.com?user=Dharneesh-009&theme=radical" alt="GitHub Streak" /> </p>
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dharneesh-009&theme=onedark&row=1&column=6" /> </p>
 📫 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> • <a href="mailto:your-email@example.com">Email</a> • <a href="https://github.com/Dharneesh-009">GitHub</a> </p>
-<p align="center">⚡ Turning ideas into AI-powered backend solutions ⚡</p> ```
+<p align="center"> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Dharneesh-009"> <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white" /> </a> </p>
+<p align="center">⚡ Turning Ideas into Intelligent Backend Solutions ⚡</p> ```
