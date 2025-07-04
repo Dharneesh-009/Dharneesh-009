@@ -44,4 +44,4 @@ Styled Contact Page	React + Tailwind CSS	Responsive UI with social media & conta
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dharneesh-009&theme=onedark&row=1&column=6" /> </p>
 📫 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Dharneesh-009"> <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white" /> </a> </p>
-<p align="center">⚡ Turning Ideas into Intelligent Backend Solutions ⚡</p> ```
+<p align="center">⚡ Turning Ideas into Intelligent Backend Solutions  ⚡</p> ```
