@@ -19,14 +19,19 @@ Aspiring Java Backend Developer | AI-Integrated App Builder | Full-Stack Explore
 ---
 
 ### 👨‍💻 I code in
-<img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/spring-logo.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/react-native.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/javascript.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/html-5.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/css3.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/git.png"/> 
+### 👨‍💻 I code in
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" />
+  <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot" />
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React.js" />
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" />
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" />
+</p>
+ 
 
 ---
 
