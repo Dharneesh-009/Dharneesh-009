@@ -1,47 +1,57 @@
-<h1 align="center">Hi there 👋, I'm Dharneesh</h1>
-<h3 align="center">🚀 Aspiring Java Backend Developer | 🧠 AI-Integrated App Builder | 🌐 Full-Stack Explorer</h3>
+## Hi there 👋 It's me Dharneesh
+
+Aspiring Java Backend Developer | AI-Integrated App Builder | Full-Stack Explorer  
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+- 🔭 Building: **Virtual Task Management System** using Spring Boot + React + JWT  
+- 🌱 Learning: DSA, Spring Security, and AI-powered integrations  
+- 💼 Passionate about solving real-world problems using clean code  
+- ⚡ Fun fact: I love problem-solving and tech that makes life easier!
 
 ---
 
-## 💡 About Me
-
-- 🔨 Building: **Virtual Task Management System** using `Spring Boot`, `React`, and `JWT`
-- 📚 Learning: `Spring Security`, `REST APIs`, `AI Integration`, and `Java DSA`
-- 💭 Passionate about: Creating **AI-powered full-stack web apps**
-- 💬 Ask me about: `Java`, `Spring Boot`, `JWT Auth`, `React.js`, `LLMs`, `Backend Design`
+### 📫 Connect With Me:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dharneesh-p-10705b257/)  
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Dharneesh-009)  
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/Dharneesh-P/)  
 
 ---
 
-## ⚙️ Tech Stack
+### 👨‍💻 I code in
+<img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/spring-logo.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/react-native.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/javascript.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/html-5.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/css3.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/git.png"/> 
 
-```bash
-💻 Backend:    Java | Spring Boot | Spring Security | JWT | Hibernate | Maven
-🌐 Frontend:   React.js | Vite | Tailwind CSS | Bootstrap | HTML/CSS | Axios
-🧠 AI Tools:   OpenAI API | Hugging Face | Groq
-🛢️ Database:  MySQL | PostgreSQL | H2 | JPA
-🛠️ Tools:     IntelliJ | VS Code | Postman | GitHub | Figma | Netlify
-⚙️ DevOps:     GitHub Actions (learning)
-🛠️ Featured Projects
+---
 
-Project	Tech Stack	Description
-Login/Auth System	React + Spring Boot + JWT	Secure role-based login & registration system
-IPL Outcome Predictor	Python + Scikit-learn + Streamlit	Predicts cricket match outcomes using ML
-DSA Practice	Java	Arrays, Strings, Trees & more via real problems
-Styled Contact Page	React + Tailwind CSS	Responsive UI with social media & contact links
+### 🛠️ Tools I Use
+<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
+<img height="40" src="https://img.icons8.com/officel/48/java-eclipse.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/intellij-idea.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/postman-api.png"/> 
+<img height="40" src="https://img.icons8.com/ios-filled/50/github.png"/> 
 
-🎯 2025 Goals
-✅ Master Java DSA and Spring Boot
+---
 
-✅ Build AI-integrated full-stack projects
+### 💻 Workspace Specs
+<img height="30" src="https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/Processor-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/GPU-NVIDIA_GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-🔄 Contribute to open-source Java backend projects
+---
 
-🚀 Get placed as a Java Developer with AI integration exposure
+![Dharneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharneesh-009&theme=dark&show_icons=true&hide=contribs)
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dharneesh-009&show_icons=true&theme=radical" alt="GitHub Stats" /> <br /> <img src="https://streak-stats.demolab.com?user=Dharneesh-009&theme=radical" alt="GitHub Streak" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dharneesh-009&theme=onedark&row=1&column=6" /> </p>
-📫 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Dharneesh-009"> <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white" /> </a> </p>
-<p align="center">⚡ Turning Ideas into Intelligent Backend Solutions  ⚡</p> ```
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Dharneesh-P?ext=contest&theme=dark)](https://leetcode.com/u/Dharneesh-P/)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharneesh-009&bg_color=000000&color=ffffff&line=00ffe0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+_**“Code with clarity. Build with purpose. Learn without limits.”**_
+
