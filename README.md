@@ -40,7 +40,6 @@ Aspiring Java Backend Developer | AI-Integrated App Builder | Full-Stack Explore
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/officel/48/java-eclipse.png" title="Eclipse" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ IDEA" height="40" style="margin-right:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" title="Postman" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" height="40" style="margin-right:10px;"/>
 </p>
 
