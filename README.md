@@ -19,7 +19,6 @@ Aspiring Java Backend Developer | AI-Integrated App Builder | Full-Stack Explore
 ---
 
 ### 👨‍💻 I code in
-### 👨‍💻 I code in
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" />
