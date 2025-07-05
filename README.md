@@ -35,11 +35,15 @@ Aspiring Java Backend Developer | AI-Integrated App Builder | Full-Stack Explore
 ---
 
 ### 🛠️ Tools I Use
-<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
-<img height="40" src="https://img.icons8.com/officel/48/java-eclipse.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/intellij-idea.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/postman-api.png"/> 
-<img height="40" src="https://img.icons8.com/ios-filled/50/github.png"/> 
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" height="40"/>
+  <img src="https://img.icons8.com/officel/48/java-eclipse.png" title="Eclipse" height="40"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ IDEA" height="40"/>
+  <img src="https://img.icons8.com/color/48/postman-api.png" title="Postman" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" height="40"/>
+</p>
+
 
 ---
 
