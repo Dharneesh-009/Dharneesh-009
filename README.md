@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Dharnee
+## Hi there 👋 It's me Dharneesh
 
 Aspiring Java Backend Developer | AI-Integrated App Builder | Full-Stack Explorer  
 <img align="right" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
