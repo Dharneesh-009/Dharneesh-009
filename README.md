@@ -7,7 +7,7 @@ Aspiring Java Backend Developer | AI-Integrated App Builder | Full-Stack Explore
 - 🔭 Building: **Virtual Task Management System** using Spring Boot + React + JWT 
 - 🌱 Learning: DSA, Spring Security, and AI-powered integrations  
 - 💼 Passionate about solving real-world problems using clean code  
-- ⚡ Fun fact: I love problem-solving and tech that makes life easier!
+- ⚡ Fun fact: I love problem-solving and tech that makes life easier! 
 
 --
 
